@@ -27,3 +27,9 @@ rule_files:
 `localhost:9093'
 
 * Modificamos alertmanager.yml (copiamos el que tenemos en este proyecto)
+
+* Creamos GMAIL app password
+* * Entramos a nuestra cuenta de gmail
+* * presionamos el boton de "cuenta" > seguridad > Verificacion en dos pasos
+* * Despues de agregar verificacion en dos pasos, volvemos a cuenta > seguridad > presionamos > contrasenas de aplicaciones > aplicacion custom > la nombramos prometheus y copiamos el 16 digit passcode
+
