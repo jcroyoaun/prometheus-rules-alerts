@@ -20,4 +20,10 @@ rule_files:
 
 
 # Instalando Alertmanager
+* https://prometheus.io/download/#alertmanager
+* tar -xzf ...
+* en prometheus.yml linea 12: 
 
+`localhost:9093'
+
+* Modificamos alertmanager.yml (copiamos el que tenemos en este proyecto)
