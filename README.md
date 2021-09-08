@@ -28,6 +28,9 @@ rule_files:
 
 * Modificamos alertmanager.yml (copiamos el que tenemos en este proyecto)
 
+* iniciamos alertmanager
+
+# Para generar un password para gmail...
 * Creamos GMAIL app password
 * * Entramos a nuestra cuenta de gmail
 * * presionamos el boton de "cuenta" > seguridad > Verificacion en dos pasos
