@@ -19,3 +19,5 @@ receivers:
   slack_configs:
   - channel: '#prometheus'
     api_url: 'https://hooks.slack.com/services/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'
+    #title: 'WMI exporter is down'
+    #text: WMI exporter is down for more than 2 minutes'
